@@ -1,11 +1,6 @@
-Voy a crear una versión mejorada de tu perfil README con un diseño visual y preview interactivo, más el markdown listo para copiar.Y acá está el markdown mejorado listo para pegar en tu `README.md`:
 
-```markdown
-<div align="center">
 
-```
-<!-- opcional: banner/gif tuyo acá -->
-```
+
 
 ### `// systems orchestrator · ai-native builder`
 
