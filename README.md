@@ -32,5 +32,5 @@ No soy un desarrollador tradicional; soy un **orquestador de sistemas**. Constru
 ---
 
 ### 📫 Connect with the Build
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](TU_LINK)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](TU_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-quispe-98b580215/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/fmqzykon)
